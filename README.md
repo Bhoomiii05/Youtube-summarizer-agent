@@ -34,3 +34,17 @@ Learn and implement YouTube Transcript API integration.
 ### Output
 
 - `transcript.txt` containing the clean transcript
+
+## Day 3: Transcript Summarization
+
+**What was done today:**
+
+- Loaded transcript from `transcript.txt`
+- Used Groq LLM (`llama-3.1-8b-instant`) to summarize video
+- Saved summary to `video_summary.txt`
+- Learned how to use `.env` safely for API keys
+
+**Next Steps:**
+
+- Optional: Implement multi-language support
+- Optional: Store summaries in a structured format (JSON/DB)

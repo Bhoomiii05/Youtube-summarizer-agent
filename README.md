@@ -48,3 +48,16 @@ Learn and implement YouTube Transcript API integration.
 
 - Optional: Implement multi-language support
 - Optional: Store summaries in a structured format (JSON/DB)
+
+## Day 4
+
+- Learned to integrate transcript summarization using Groq LLM.
+- Implemented reading transcript from a local file.
+- Saved the summary to a text file.
+
+## Day 5
+
+- Combined Day 4 functionality.
+- Tested with different transcripts.
+- Ensured API key is safely stored in `.env`.
+- Generated bullet/paragraph summaries.
